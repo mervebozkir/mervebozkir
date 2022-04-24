@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mervebozkir
-- 👀 I’m interested in software testing. I love learning about new developments about the software world.
+- 👀 I’m interested in software testing. I love learning new developments about the software world.
 - 🌱 I’m currently learning JavaScript, Webdriver.io and also Cucumber.
 - 📫 You can reach me via mervebozkir@windowslive.com
 
